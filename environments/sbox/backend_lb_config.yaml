@@ -71,6 +71,8 @@ gateways:
         component: ozzyib
       - product: "labs"
         component: rajivkapoor1
+      - product: "labs"
+        component: ramparitala
         
 
     # SIDAM 
